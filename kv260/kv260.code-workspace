@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../drone"
+		},
+		{
+			"path": "../uav_rail_detection"
+		}
+	]
+}
